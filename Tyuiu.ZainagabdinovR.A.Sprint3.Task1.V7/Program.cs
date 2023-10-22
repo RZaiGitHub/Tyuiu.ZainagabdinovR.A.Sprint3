@@ -17,7 +17,7 @@ namespace Tyuiu.ZainagabdinovR.A.Sprint3.Task1.V7
             Console.Title = "Спринт #3 | Выполнил: Зайнагабдинов Р. А. | ИСТНб-23-1";
             //Длина строки 75 символов
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #3                                                               *");
+            Console.WriteLine("*Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
             Console.WriteLine("* Задание #3.1                                                            *");
             Console.WriteLine("* Вариант #7                                                              *");
