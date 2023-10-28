@@ -18,7 +18,7 @@ namespace Tyuiu.ZainagabdinovR.A.Sprint3.Task3.V4.Test
 
             string res = ds.DeleteCharInString(value, item);
 
-            string wait = "plk dw cv kl";
+            string wait = "plk  dw cv kl";
 
             Assert.AreEqual(wait, res);
         }
